@@ -1,6 +1,5 @@
 # testfsdfsdf
 dsad
 
-* item 1
-  item 2
-* item 3
+Đây là dòng đầu tiên.  
+Đây là dòng thứ hai, nhưng vẫn thuộc cùng một đoạn văn.
